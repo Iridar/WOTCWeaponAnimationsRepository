@@ -2,6 +2,10 @@
 
 WAR is a mod for XCOM 2 War of the Chosen. It stores and applies animations for primary or dual secondaries and other weapons.
 
+The goal is for the mod to eventually succeed the animation portions of Primary Secondaries, Dual Wielded Melee, Dual Pistols and Ballistic Shields, as well as potentially provide animations for new weapon types, like spears. 
+
+The gameplay portions of mentioned mods are to be succeed by other mods.
+
 ## List of Animation Sets
 
 Eventually, the mod may contain the following Animation Sets:
