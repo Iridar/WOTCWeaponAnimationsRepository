@@ -37,6 +37,18 @@
     <Content Include="Localization\XComGame.int" />
     <Content Include="Localization\WOTCWeaponAnimationsRepository.int" />
     <Content Include="Src\extra_globals.uci" />
+    <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\DropShipMatinee_Actor.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\MSEventListenerTemplate.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\MSEventListener_StrategyListener.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\ShellMapMatinee.uc">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\X2DLCInfo_WOTCWeaponAnimationsRepository.uc" />
     <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\Help.uc" />
     <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\ConfigEngine.uc" />
