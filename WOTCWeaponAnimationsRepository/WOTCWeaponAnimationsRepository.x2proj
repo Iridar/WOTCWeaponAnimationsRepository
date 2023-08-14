@@ -20,6 +20,9 @@
     <Folder Include="Src\WOTCWeaponAnimationsRepository\Classes\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Config\XComClassData.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Content\IRITestPackage.upk">
       <SubType>Content</SubType>
     </Content>
@@ -37,6 +40,9 @@
     <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\X2DLCInfo_WOTCWeaponAnimationsRepository.uc" />
     <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\Help.uc" />
     <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\ConfigEngine.uc" />
+    <Content Include="Src\WOTCWeaponAnimationsRepository\Classes\X2EventListener_WAR.uc">
+      <SubType>Content</SubType>
+    </Content>
   </ItemGroup>
   <PropertyGroup>
     <SolutionRoot>$(MSBuildProjectDirectory)\..\</SolutionRoot>
