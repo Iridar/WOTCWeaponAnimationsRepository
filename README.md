@@ -29,11 +29,13 @@ Eventually, the mod may contain the following Animation Sets:
 
 Ideally, each Animation Set should include the following animations:
 - Full set of tactical animations.
+- Weapon attack animations: step out, fire, step in. Potentially including different animations for different weapon tiers and special attack animations, when appropriate (e.g. Fan Fire or moving melee)
 - Skyranger animations - for dropping off Skyranger at the mission start.
 - Shell animations - when the soldier is standing behind the main menu after the game starts.
 - Armory animations - three animations for each of the 11 attitudes: walk to camera, idle, walk away from camera.
 - Photobooth poses.
 - Misc animations: things like running off the Avenger's apparel during Avenger Defense mission.
+- Animations for carrying a soldier or being carried - currently unsure how to handle them, because that's extra 220 animations that you very rarely even see.
 
 ## Planned Functionality
 
